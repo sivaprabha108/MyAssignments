@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Leaf Taps" verbose = "5">
+  <test name="LFT 785263 EditMergeLead ">
+    <classes>
+      <class name="week6.day1testng.EditLeadTNG"/>
+      <class name="week6.day1testng.MergeLeadTNG"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Leaf Taps -->
